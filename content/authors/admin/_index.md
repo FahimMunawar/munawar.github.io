@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+
 
 # Name pronunciation (optional)
 name_pronunciation: Md. Munawar Hossain
@@ -30,13 +30,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Federated Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Electrical & Computer Engineering
+    - course: B.Sc. in Electrical & Computer Engineering
       institution: Rajshahi University of Engineering & Technology
       year: 2023
 
@@ -102,7 +103,7 @@ social:
     link: https://github.com/FahimMunawar
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/munawark7/
+    link: https://www.linkedin.com/in/munawark7/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -113,6 +114,4 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Md. Munawar Hossain is deeply passionate about machine learning, particularly in the realms of deep learning and federated learning. He has a proven track record of developing and deploying machine learning models that drive data-driven decision-making. He just completed my B.Sc. & currently working as a DevOps Engineer for Exos Systems sister concern, Hubar Tech Limited. Munawar is now looking to pursue a Ph.D. to delve deeper into cutting-edge research and contribute significantly to the field of artificial intelligence.
