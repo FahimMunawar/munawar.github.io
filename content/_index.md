@@ -66,15 +66,15 @@ sections:
           company: Exos Systems
           company_url: 'https://www.exos-systems.com/'
           company_logo: org-gc
-          location: UK
+          location: Bangladesh
           date_start: '2023-11-01'
-          date_end: 'Present'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
               * CICD
-              * Server Side Maintance
-              * Deployment of Services
+              * Production Level Maintance
+              * Deploying Service Automation
         # - title: Professor of Semiconductor Physics
         #   company: University X
         #   company_url: ''
@@ -84,7 +84,7 @@ sections:
         #   date_end: '2020-12-31'
         #   description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '1'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
