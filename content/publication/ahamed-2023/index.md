@@ -12,7 +12,7 @@ authors:
 date: '2023-12-01'
 publishDate: '2024-04-06T21:47:34.933273Z'
 publication_types:
-- article-journal
+- article-Conference
 publication: '*Computerized Medical Imaging and Graphics*'
 doi: 10.1016/J.COMPMEDIMAG.2023.102313
 abstract: Brain tumors have become a severe medical complication in recent years due
