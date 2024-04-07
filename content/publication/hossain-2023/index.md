@@ -8,7 +8,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-04-06T21:47:34.924825Z'
 publication_types:
-- article-journal
+- article-Conference
 publication: '*2023 26th International Conference on Computer and Information Technology,
   ICCIT 2023*'
 doi: 10.1109/ICCIT60459.2023.10441464
