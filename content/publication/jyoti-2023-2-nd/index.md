@@ -8,8 +8,7 @@ authors:
 - Md Abu Ismail Siddique
 date: '2023-01-01'
 publishDate: '2024-04-07T10:17:25.057932Z'
-publication_types:
-- ['paper-conference']
+publication_types: ['paper-conference']
 publication: '*2023 10th IEEE International Conference on Power Systems, ICPS 2023*'
 doi: 10.1109/ICPS60393.2023.10428812
 abstract: Unforeseen failures in the electrical power transmission line may arise

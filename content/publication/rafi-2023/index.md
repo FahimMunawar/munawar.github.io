@@ -9,8 +9,7 @@ authors:
 - Tamanna Hossain Mou
 date: '2023-01-01'
 publishDate: '2024-04-07T10:17:25.047451Z'
-publication_types:
-- ['paper-conference']
+publication_types: ['paper-conference']
 publication: '*2023 26th International Conference on Computer and Information Technology,
   ICCIT 2023*'
 doi: 10.1109/ICCIT60459.2023.10441163

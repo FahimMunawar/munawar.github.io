@@ -6,8 +6,7 @@ authors:
 - Md Munawar Hossain
 date: '2023-01-01'
 publishDate: '2024-04-06T21:47:34.914649Z'
-publication_types:
-- ['paper-conference']
+publication_types: ['paper-conference']
 publication: '*2023 10th IEEE International Conference on Power Systems, ICPS 2023*'
 doi: 10.1109/ICPS60393.2023.10428807
 abstract: A distribution transformer fault refers to a malfunction or abnormal condition
