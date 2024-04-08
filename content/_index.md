@@ -65,7 +65,7 @@ sections:
         - title: DevOps Engineer
           company: Exos Systems
           company_url: 'https://www.exos-systems.com/'
-          company_logo: exos.png
+          company_logo: org-exos
           location: Bangladesh
           date_start: '2023-11-01'
           date_end: ''
