@@ -197,7 +197,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
-    id: papers
+    id: publication
     content:
       title: Publications
       text: |-
