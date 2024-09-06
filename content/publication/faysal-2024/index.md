@@ -36,7 +36,15 @@ abstract: "To properly diagnose and screen for skin disorders, precise segmentat
   framework may be utilized to create a completely automated computer-aided skin lesion
   diagnostic system."
 tags:
-- Training;Image segmentation;Computational modeling;Scalability;Streaming media;Skin;Real-time
-  systems;Skin Lesions;Melanoma;Segmentation;Attention Guide;Deep Learning;Test Time
-  Augmentation
+- Training
+- Image segmentation
+- Computational modeling;Scalability
+- Streaming media
+- Skin
+- Real-time systems
+- Skin Lesions
+- Melanoma
+- Segmentation;Attention Guide
+- Deep Learning
+- Test Time Augmentation
 ---
